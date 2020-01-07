@@ -1,4 +1,5 @@
 ## BUILD :
+### CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o main .
 ### sudo docker build -t my-go-app .
 
 ## RUN :
