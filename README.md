@@ -1,5 +1,4 @@
 ## BUILD :
-### go build -o main
 ### sudo docker build -t my-go-app .
 
 ## RUN :
