@@ -1,10 +1,10 @@
 # micro-docker-images-for-go-applications
 
-## BUILD
+## BUILD :
 ### sudo docker build -t my-go-app .
 
-## RUN 
+## RUN :
 ### sudo docker run -p 3000:3000 my-go-app
 
-## OPEN browser
+## OPEN browser :
 ### localhost:3000
