@@ -1,5 +1,3 @@
-# micro-docker-images-for-go-applications
-
 ## BUILD :
 ### sudo docker build -t my-go-app .
 
